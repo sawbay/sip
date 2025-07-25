@@ -1,2 +1,2 @@
 # sip
-An AI that scrapes news everyday, aggregate and shows preferenced news for you
+An AI that scrapes news everyday, aggregates and shows preferenced news for you
